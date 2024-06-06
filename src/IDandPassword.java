@@ -10,7 +10,7 @@ public class IDandPassword {
         loginInfo.put("Claude", "Crocodile");
     }
 
-    protected HashMap getLogin() {
+    protected  HashMap getLogin() {
         return loginInfo;
     }
 }
